@@ -8,7 +8,7 @@ I am a link shortner telegram bot.
 
 >> `I can short any type of link`
 
-Made by @FayasNoushad"""
+Made by @Sk_Media_Official"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -24,23 +24,21 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /settings - For bot settings
 /reset - For reset bot settings
 
-Made by @FayasNoushad"""
+Made by @Sk_Media_Official"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
-🤖 **Name :** [Link shortner](https://telegram.me/{})
+🤖 **Name :** [Link shortner](https://telegram.me/Sk_Media_Official)
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [Fayas](https://telegram.me/Sk_Media_Official)
 
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+📢 **Channel :** [Fayas Noushad](https://telegram.me/Sk_Media_Official)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
+👥 **Group :** [Developer Team](https://telegram.me/Sk_Media_Official)
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/URL-Shortner)
+🌐 **Source :** [👉 Click here](https://telegram.me/Sk_Media_Official)
 
-📝 **Language :** [Python3](https://python.org)
-
-🧰 **Framework :** [Pyrogram](https://pyrogram.org)"""
+📝 **Language :** [Python3](https://telegram.me/Sk_Media_Official)
 
 SETTINGS_TEXT = "**Settings**"
 
